@@ -2,5 +2,5 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me is a mystery
+- 📫 How to reach me is a mystery but try to use burakdemirel49@gmail.com
 -  ✔ I'm a Bilkent University 
