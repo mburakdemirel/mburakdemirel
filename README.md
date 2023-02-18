@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mburakdemirel
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me is a mystery
 -  ✔ I'm a Bilkent University 
